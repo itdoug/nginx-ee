@@ -205,7 +205,7 @@ else
 fi
 
 echo "   Compilation summary : "
-echo "       - Nginx release : $NGINX_MAINLINE"
+echo "       - Nginx release : ${NGINX_VER}"
 echo "       - Pagespeed : $PAGESPEED_VALID "
 echo "       - Naxsi : $NAXSI_VALID"
 echo "       - RTMP : $RTMP_VALID"
